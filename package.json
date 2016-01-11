@@ -1,0 +1,19 @@
+{
+  "name": "function-promisify",
+  "description": "Synchronous-style promises",
+  "keywords": "promise, lift",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acvos/function-promisify.git"
+  },
+  "author": "Anthony Chernikov <achernikov@acvos>",
+  "dependencies": {
+    "function-lift": "^1.0.3"
+  },
+  "engines": {
+    "node": ">=4.0",
+    "npm": ">=2.0"
+  },
+  "license": "Apache-2.0"
+}
