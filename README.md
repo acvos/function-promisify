@@ -1,6 +1,10 @@
 # function-promisify
 Turns synchronous functions into promise-based
 
+##
+- Allows to write promise-based code in syncronous manner
+- Supports any function arity
+
 ## Installation
 
 ```
