@@ -14,7 +14,7 @@ npm install function-promisify
 ## Usage
 
 ```javascript
-var promisify = require('promisify');
+var promisify = require('function-promisify');
 
 var multiply = promisify(function (number, multiplier) {
     return number * multiplier;
