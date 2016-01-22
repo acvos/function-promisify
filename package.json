@@ -2,7 +2,7 @@
   "name": "function-promisify",
   "description": "Synchronous-style promises",
   "keywords": "promise, lift",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/acvos/function-promisify.git"
